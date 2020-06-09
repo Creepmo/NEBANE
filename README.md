@@ -2,6 +2,20 @@
 
 NEBANE的实现版本
 
+## 论文地址
+
+https://www.researchgate.net/publication/337773659_Node-Edge_Bilateral_Attributed_Network_Embedding
+
+## ppt地址
+
+链接：https://pan.baidu.com/s/1XKnay-QqKP_Yxq_UnoBX0Q 
+提取码：j89m
+
+## 数据集地址
+
+链接：https://pan.baidu.com/s/1HCrrgSX-wZbPk8euqeGeGw 
+提取码：xaga
+
 ## 使用方法
 
 ```python
@@ -42,7 +56,7 @@ python main.py -options
 - main.py：主函数；
 - graph.py：图数据预处理模块；
 - train.py：训练函数;
-- evaluation：评估函数。
+- evaluation.py：评估函数。
 
 #### 评估函数
 
